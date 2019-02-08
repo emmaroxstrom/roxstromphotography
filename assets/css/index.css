@@ -1,0 +1,12 @@
+.banner {
+  background-color: red;
+  background-image: url("../img/EmmaKamera.jpg");
+  width: 100vw;
+  height: 65vh;
+  background-size: cover;
+  background-position: center;
+}
+
+/* body {
+  background-color: red;
+} */

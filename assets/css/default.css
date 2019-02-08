@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+h1, h2, h3, p, a {
+  font-family: 'Questrial', sans-serif;
+}
+
+div, nav {
+  display: flex;
+}
+
+nav {
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+
+}
+
+img {
+  width: 120px;
+}
+
+a {
+  padding: 10px;
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  background-color: rgba(255, 255, 255, 0,1);
+}
